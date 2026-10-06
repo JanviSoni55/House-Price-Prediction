@@ -4,6 +4,13 @@
 
 This project predicts house prices using machine learning based on property features such as area, number of bedrooms, bathrooms, house age, and parking availability.
 
+## Dataset
+
+The dataset used in this project is included in this GitHub repository.
+
+Dataset: [house_price_regression_dataset.csv](./house_price_regression_dataset.csv)
+
+
 ## Objective
 
 The objective of this project is to analyze housing data and build a machine learning regression model that can predict the expected price of a house.
